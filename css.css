@@ -19,6 +19,24 @@ html {
     padding: 3px;
 }
 
+.reference {
+    color: #b3b8c3;
+    text-decoration: underline;
+}
+
+.reference:hover {
+    background-color: #b3b8c3;
+    color: #0c090a;
+}
+
+.greentext {
+    color: #87b379;
+}
+
+.redtext {
+    color: #a47996;
+}
+
 a:hover {
     background-color: #fc6db7;
     color: #0C090A;
