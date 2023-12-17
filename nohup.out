@@ -1,0 +1,413 @@
+[Sat Dec 16 20:21:11 2023] PHP 8.2.13 Development Server (http://localhost:8000) started
+[Sat Dec 16 22:03:08 2023] [::1]:39414 Accepted
+[Sat Dec 16 22:03:08 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:08 2023] [::1]:39414 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:08 2023] [::1]:39414 Closing
+[Sat Dec 16 22:03:08 2023] [::1]:39420 Accepted
+[Sat Dec 16 22:03:08 2023] [::1]:39420 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:03:08 2023] [::1]:39420 Closing
+[Sat Dec 16 22:03:11 2023] [::1]:53334 Accepted
+[Sat Dec 16 22:03:11 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:11 2023] [::1]:53334 [500]: HEAD / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:11 2023] [::1]:53334 Closing
+[Sat Dec 16 22:03:12 2023] [::1]:53346 Accepted
+[Sat Dec 16 22:03:12 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:12 2023] [::1]:53346 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:12 2023] [::1]:53346 Closing
+[Sat Dec 16 22:03:12 2023] [::1]:53348 Accepted
+[Sat Dec 16 22:03:12 2023] [::1]:53348 [200]: GET /css.css
+[Sat Dec 16 22:03:12 2023] [::1]:53348 Closing
+[Sat Dec 16 22:03:12 2023] [::1]:53356 Accepted
+[Sat Dec 16 22:03:12 2023] [::1]:53356 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:03:12 2023] [::1]:53356 Closing
+[Sat Dec 16 22:03:15 2023] [::1]:53372 Accepted
+[Sat Dec 16 22:03:15 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:15 2023] [::1]:53372 [500]: HEAD / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:15 2023] [::1]:53372 Closing
+[Sat Dec 16 22:03:18 2023] [::1]:53378 Accepted
+[Sat Dec 16 22:03:18 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:18 2023] [::1]:53378 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:18 2023] [::1]:53378 Closing
+[Sat Dec 16 22:03:18 2023] [::1]:53388 Accepted
+[Sat Dec 16 22:03:18 2023] [::1]:53388 [200]: GET /css.css
+[Sat Dec 16 22:03:18 2023] [::1]:53388 Closing
+[Sat Dec 16 22:03:20 2023] [::1]:47430 Accepted
+[Sat Dec 16 22:03:20 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:20 2023] [::1]:47430 [500]: GET /blog - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:20 2023] [::1]:47430 Closing
+[Sat Dec 16 22:03:20 2023] [::1]:47434 Accepted
+[Sat Dec 16 22:03:20 2023] [::1]:47434 [200]: GET /css.css
+[Sat Dec 16 22:03:20 2023] [::1]:47434 Closing
+[Sat Dec 16 22:03:22 2023] [::1]:47442 Accepted
+[Sat Dec 16 22:03:22 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:22 2023] [::1]:47442 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:22 2023] [::1]:47442 Closing
+[Sat Dec 16 22:03:23 2023] [::1]:47458 Accepted
+[Sat Dec 16 22:03:23 2023] [::1]:47458 [200]: GET /css.css
+[Sat Dec 16 22:03:23 2023] [::1]:47458 Closing
+[Sat Dec 16 22:03:24 2023] [::1]:47470 Accepted
+[Sat Dec 16 22:03:24 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:24 2023] [::1]:47470 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:24 2023] [::1]:47470 Closing
+[Sat Dec 16 22:03:24 2023] [::1]:47472 Accepted
+[Sat Dec 16 22:03:24 2023] [::1]:47472 [200]: GET /css.css
+[Sat Dec 16 22:03:24 2023] [::1]:47472 Closing
+[Sat Dec 16 22:03:26 2023] [::1]:47488 Accepted
+[Sat Dec 16 22:03:26 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:26 2023] [::1]:47488 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:26 2023] [::1]:47488 Closing
+[Sat Dec 16 22:03:26 2023] [::1]:47492 Accepted
+[Sat Dec 16 22:03:26 2023] [::1]:47492 [200]: GET /css.css
+[Sat Dec 16 22:03:26 2023] [::1]:47492 Closing
+[Sat Dec 16 22:03:27 2023] [::1]:47494 Accepted
+[Sat Dec 16 22:03:27 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:27 2023] [::1]:47494 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:27 2023] [::1]:47494 Closing
+[Sat Dec 16 22:03:27 2023] [::1]:47508 Accepted
+[Sat Dec 16 22:03:27 2023] [::1]:47508 [200]: GET /css.css
+[Sat Dec 16 22:03:27 2023] [::1]:47508 Closing
+[Sat Dec 16 22:03:33 2023] [::1]:48670 Accepted
+[Sat Dec 16 22:03:33 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:33 2023] [::1]:48670 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:33 2023] [::1]:48670 Closing
+[Sat Dec 16 22:03:46 2023] [::1]:38422 Accepted
+[Sat Dec 16 22:03:46 2023] [::1]:38436 Accepted
+[Sat Dec 16 22:03:46 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38422 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38422 Closing
+[Sat Dec 16 22:03:46 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38436 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38436 Closing
+[Sat Dec 16 22:03:46 2023] [::1]:38438 Accepted
+[Sat Dec 16 22:03:46 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38438 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38438 Closing
+[Sat Dec 16 22:03:46 2023] [::1]:38444 Accepted
+[Sat Dec 16 22:03:46 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38444 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:46 2023] [::1]:38444 Closing
+[Sat Dec 16 22:03:49 2023] [::1]:38454 Accepted
+[Sat Dec 16 22:03:49 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:49 2023] [::1]:38454 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:49 2023] [::1]:38454 Closing
+[Sat Dec 16 22:03:55 2023] [::1]:41220 Accepted
+[Sat Dec 16 22:03:55 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:55 2023] [::1]:41220 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:03:55 2023] [::1]:41220 Closing
+[Sat Dec 16 22:04:02 2023] [::1]:47606 Accepted
+[Sat Dec 16 22:04:02 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:02 2023] [::1]:47606 [500]: OPTIONS / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:02 2023] [::1]:47606 Closing
+[Sat Dec 16 22:04:02 2023] [::1]:47620 Accepted
+[Sat Dec 16 22:04:02 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:02 2023] [::1]:47620 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:02 2023] [::1]:47620 Closing
+[Sat Dec 16 22:04:03 2023] [::1]:47626 Accepted
+[Sat Dec 16 22:04:03 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:03 2023] [::1]:47626 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:03 2023] [::1]:47626 Closing
+[Sat Dec 16 22:04:03 2023] [::1]:47628 Accepted
+[Sat Dec 16 22:04:03 2023] [::1]:47628 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:04:03 2023] [::1]:47628 Closing
+[Sat Dec 16 22:04:14 2023] [::1]:59380 Accepted
+[Sat Dec 16 22:04:14 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:14 2023] [::1]:59380 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:04:14 2023] [::1]:59380 Closing
+[Sat Dec 16 22:04:14 2023] [::1]:59396 Accepted
+[Sat Dec 16 22:04:14 2023] [::1]:59396 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:04:14 2023] [::1]:59396 Closing
+[Sat Dec 16 22:09:53 2023] [::1]:49444 Accepted
+[Sat Dec 16 22:09:53 2023] PHP Fatal error:  Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:09:53 2023] [::1]:49444 [500]: GET / - Uncaught PDOException: could not find driver in /home/krissy/blog/index.php:16
+Stack trace:
+#0 /home/krissy/blog/index.php(16): PDO->__construct()
+#1 {main}
+  thrown in /home/krissy/blog/index.php on line 16
+[Sat Dec 16 22:09:53 2023] [::1]:49444 Closing
+[Sat Dec 16 22:09:53 2023] [::1]:49452 Accepted
+[Sat Dec 16 22:09:53 2023] [::1]:49452 [200]: GET /css.css
+[Sat Dec 16 22:09:53 2023] [::1]:49452 Closing
+[Sat Dec 16 22:09:53 2023] [::1]:49462 Accepted
+[Sat Dec 16 22:09:53 2023] [::1]:49462 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:09:53 2023] [::1]:49462 Closing
+[Sat Dec 16 22:10:47 2023] PHP 8.2.13 Development Server (http://localhost:8000) started
+[Sat Dec 16 22:10:59 2023] [::1]:42188 Accepted
+[Sat Dec 16 22:10:59 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:10:59 2023] [::1]:42188 [200]: GET /
+[Sat Dec 16 22:10:59 2023] [::1]:42188 Closing
+[Sat Dec 16 22:10:59 2023] [::1]:42190 Accepted
+[Sat Dec 16 22:10:59 2023] [::1]:42190 [200]: GET /css.css
+[Sat Dec 16 22:10:59 2023] [::1]:42190 Closing
+[Sat Dec 16 22:11:00 2023] [::1]:42198 Accepted
+[Sat Dec 16 22:11:00 2023] [::1]:42198 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:11:00 2023] [::1]:42198 Closing
+[Sat Dec 16 22:11:03 2023] [::1]:40246 Accepted
+[Sat Dec 16 22:11:03 2023] [::1]:40246 [200]: GET /?blog
+[Sat Dec 16 22:11:03 2023] [::1]:40246 Closing
+[Sat Dec 16 22:11:03 2023] [::1]:40254 Accepted
+[Sat Dec 16 22:11:03 2023] [::1]:40254 [200]: GET /css.css
+[Sat Dec 16 22:11:03 2023] [::1]:40254 Closing
+[Sat Dec 16 22:11:04 2023] [::1]:40268 Accepted
+[Sat Dec 16 22:11:04 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:11:04 2023] [::1]:40268 [200]: GET /
+[Sat Dec 16 22:11:04 2023] [::1]:40268 Closing
+[Sat Dec 16 22:11:04 2023] [::1]:40278 Accepted
+[Sat Dec 16 22:11:04 2023] [::1]:40278 [200]: GET /css.css
+[Sat Dec 16 22:11:04 2023] [::1]:40278 Closing
+[Sat Dec 16 22:11:05 2023] [::1]:40292 Accepted
+[Sat Dec 16 22:11:05 2023] [::1]:40292 [200]: GET /?blog
+[Sat Dec 16 22:11:05 2023] [::1]:40292 Closing
+[Sat Dec 16 22:11:05 2023] [::1]:40300 Accepted
+[Sat Dec 16 22:11:05 2023] [::1]:40300 [200]: GET /css.css
+[Sat Dec 16 22:11:05 2023] [::1]:40300 Closing
+[Sat Dec 16 22:11:33 2023] [::1]:45534 Accepted
+[Sat Dec 16 22:11:33 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:11:33 2023] [::1]:45534 [200]: GET /
+[Sat Dec 16 22:11:33 2023] [::1]:45534 Closing
+[Sat Dec 16 22:11:34 2023] [::1]:45550 Accepted
+[Sat Dec 16 22:11:34 2023] [::1]:45550 [200]: GET /css.css
+[Sat Dec 16 22:11:34 2023] [::1]:45550 Closing
+[Sat Dec 16 22:14:35 2023] [::1]:33012 Accepted
+[Sat Dec 16 22:14:35 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:35 2023] [::1]:33012 [200]: GET /
+[Sat Dec 16 22:14:35 2023] [::1]:33012 Closing
+[Sat Dec 16 22:14:35 2023] [::1]:33016 Accepted
+[Sat Dec 16 22:14:35 2023] [::1]:33016 [200]: GET /css.css
+[Sat Dec 16 22:14:35 2023] [::1]:33016 Closing
+[Sat Dec 16 22:14:38 2023] [::1]:33024 Accepted
+[Sat Dec 16 22:14:38 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:38 2023] [::1]:33024 [200]: GET /
+[Sat Dec 16 22:14:38 2023] [::1]:33024 Closing
+[Sat Dec 16 22:14:38 2023] [::1]:33028 Accepted
+[Sat Dec 16 22:14:38 2023] [::1]:33028 [200]: GET /css.css
+[Sat Dec 16 22:14:38 2023] [::1]:33028 Closing
+[Sat Dec 16 22:14:39 2023] [::1]:33036 Accepted
+[Sat Dec 16 22:14:39 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:39 2023] [::1]:33036 [200]: GET /
+[Sat Dec 16 22:14:39 2023] [::1]:33036 Closing
+[Sat Dec 16 22:14:39 2023] [::1]:33044 Accepted
+[Sat Dec 16 22:14:39 2023] [::1]:33044 [200]: GET /css.css
+[Sat Dec 16 22:14:39 2023] [::1]:33044 Closing
+[Sat Dec 16 22:14:40 2023] [::1]:33058 Accepted
+[Sat Dec 16 22:14:40 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:40 2023] [::1]:33058 [200]: GET /
+[Sat Dec 16 22:14:40 2023] [::1]:33058 Closing
+[Sat Dec 16 22:14:40 2023] [::1]:33070 Accepted
+[Sat Dec 16 22:14:40 2023] [::1]:33070 [200]: GET /css.css
+[Sat Dec 16 22:14:40 2023] [::1]:33070 Closing
+[Sat Dec 16 22:14:45 2023] [::1]:45426 Accepted
+[Sat Dec 16 22:14:45 2023] [::1]:45426 [200]: GET /?blog
+[Sat Dec 16 22:14:45 2023] [::1]:45426 Closing
+[Sat Dec 16 22:14:45 2023] [::1]:45442 Accepted
+[Sat Dec 16 22:14:45 2023] [::1]:45442 [200]: GET /css.css
+[Sat Dec 16 22:14:45 2023] [::1]:45442 Closing
+[Sat Dec 16 22:14:47 2023] [::1]:45454 Accepted
+[Sat Dec 16 22:14:47 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:47 2023] [::1]:45454 [200]: GET /
+[Sat Dec 16 22:14:47 2023] [::1]:45454 Closing
+[Sat Dec 16 22:14:47 2023] [::1]:45466 Accepted
+[Sat Dec 16 22:14:47 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:14:47 2023] [::1]:45466 [200]: GET /
+[Sat Dec 16 22:14:47 2023] [::1]:45466 Closing
+[Sat Dec 16 22:14:47 2023] [::1]:45468 Accepted
+[Sat Dec 16 22:14:47 2023] [::1]:45468 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:14:47 2023] [::1]:45468 Closing
+[Sat Dec 16 22:14:47 2023] [::1]:45470 Accepted
+[Sat Dec 16 22:14:47 2023] [::1]:45470 [200]: GET /css.css
+[Sat Dec 16 22:14:47 2023] [::1]:45470 Closing
+[Sat Dec 16 22:22:22 2023] PHP 8.2.13 Development Server (http://localhost:8000) started
+[Sat Dec 16 22:22:36 2023] [::1]:38446 Accepted
+[Sat Dec 16 22:22:36 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:22:36 2023] [::1]:38446 [200]: GET /
+[Sat Dec 16 22:22:36 2023] [::1]:38446 Closing
+[Sat Dec 16 22:22:36 2023] [::1]:38462 Accepted
+[Sat Dec 16 22:22:36 2023] [::1]:38462 [200]: GET /css.css
+[Sat Dec 16 22:22:36 2023] [::1]:38462 Closing
+[Sat Dec 16 22:22:38 2023] [::1]:38468 Accepted
+[Sat Dec 16 22:22:38 2023] [::1]:38468 [200]: GET /?blog
+[Sat Dec 16 22:22:38 2023] [::1]:38468 Closing
+[Sat Dec 16 22:22:38 2023] [::1]:38482 Accepted
+[Sat Dec 16 22:22:38 2023] [::1]:38482 [200]: GET /css.css
+[Sat Dec 16 22:22:38 2023] [::1]:38482 Closing
+[Sat Dec 16 22:22:38 2023] [::1]:38488 Accepted
+[Sat Dec 16 22:22:38 2023] [::1]:38488 [404]: GET /favicon.ico - No such file or directory
+[Sat Dec 16 22:22:38 2023] [::1]:38488 Closing
+[Sat Dec 16 22:22:39 2023] [::1]:38496 Accepted
+[Sat Dec 16 22:22:39 2023] PHP Warning:  Undefined array key "QUERY_STRING" in /home/krissy/blog/index.php on line 17
+[Sat Dec 16 22:22:39 2023] [::1]:38496 [200]: GET /
+[Sat Dec 16 22:22:39 2023] [::1]:38496 Closing
+[Sat Dec 16 22:22:39 2023] [::1]:38500 Accepted
+[Sat Dec 16 22:22:39 2023] [::1]:38500 [200]: GET /css.css
+[Sat Dec 16 22:22:39 2023] [::1]:38500 Closing

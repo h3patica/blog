@@ -24,15 +24,13 @@ if (strlen($query) > 0){
     foreach ($res as $res) {
         $tags = explode(" ", $res['tags']);
         $date = date("d M Y", $res['date']);
-        echo "<div class=term style='margin-top:5px'>tags: ";
+        echo "<div class=term style='margin-top:5px'>
+        <div style='float:right'>{$res['date']}</div>
+        <div style='float:left'>tags: ";
         foreach ($tags as $tag) {
             echo "<a href='/?{$tag}'>{$tag}</a> ";
         }
-        echo "<br>
-        {$date}
-        <br>
-        {$res['content']}
-        </div>";
+        echo "</div><br>{$date}<br>{$res['content']}</div>";
     }
 } else {
     $stmt = $db->prepare('SELECT * FROM tbl1');
