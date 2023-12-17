@@ -1,0 +1,40 @@
+html {
+    background-color: black;
+    background-image: url("https://zummer.su/wp-content/webcam/beloyarskiy/online.jpg??1687713161425");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: monospace;
+    color: #b3b8c3;
+}
+
+.term {
+    font-size: 14px;
+    background-color: #0C090A;
+    color: #b3b8c3;
+    width: 75%;
+    border: solid 2px #1e1e1e;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+}
+
+a:hover {
+    background-color: #fc6db7;
+    color: #0C090A;
+}
+
+a {
+    color: #fc6db7;
+    text-decoration: none;
+}
+
+#header {
+	text-align: center;
+}
+
+@media screen and (min-height:600px){
+    #header {
+	text-align: left;
+    }
+}
