@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>hepatica</name>
+  </author>
+  <id>https://krissy.club</id>
+  <title>Hepatiki</title>
+  <updated>2023-12-27T19:44:35-05:00</updated>
+  <entry>
+    <id>https://krissy.club/?date=1703555960</id>
+    <link href="https://krissy.club/?date=1703555960"/>
+    <summary>merry christmas also lmfao</summary>
+    <title>1703555960</title>
+    <updated>2023-12-25T20:59:20-05:00</updated>
+    <dc:date>2023-12-25T20:59:20-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://krissy.club/?date=1703555878</id>
+    <link href="https://krissy.club/?date=1703555878"/>
+    <summary>i don&#39;t really know why i like reading Problematic stuff so much. i am by no means a clean soul but i don&#39;t think i really relate that much. am i really so traumatized? i don&#39;t think so. i think it&#39;s just the only place where the myth of acceptance and inclusivity is actually real. where true feeling and emotion and the internal contradictions of everything are put on display. it&#39;s raw and universal. though if i get pressed on it it&#39;s easy to just say &quot;ah, i&#39;m just a fan of outsider art..&quot;
+
+it&#39;s just such a relief from the social world of shame and eternal punishments. it probably also helps that im a pervert.</summary>
+    <title>1703555878</title>
+    <updated>2023-12-25T20:57:58-05:00</updated>
+    <dc:date>2023-12-25T20:57:58-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://krissy.club/?date=1702889659</id>
+    <link href="https://krissy.club/?date=1702889659"/>
+    <summary>i think soon i wanna start getting into systems programming languages. either C/zig/hare/a combination of them. i just need to figure out a fun project to do with one.. maybe just doing advent of code tasks for now</summary>
+    <title>1702889659</title>
+    <updated>2023-12-18T03:54:19-05:00</updated>
+    <dc:date>2023-12-18T03:54:19-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://krissy.club/?date=1702861436</id>
+    <link href="https://krissy.club/?date=1702861436"/>
+    <summary>quite a quiet day today. a bit stressful too. not really because im doing anything though, i just know there are things i /could/ be doing. but im just out of it today. maybe because i did all that programming yesterday. i hope i get the energy to work on that nation rp tomorrow or in a bit</summary>
+    <title>1702861436</title>
+    <updated>2023-12-17T20:03:56-05:00</updated>
+    <dc:date>2023-12-17T20:03:56-05:00</dc:date>
+  </entry>
+  <entry>
+    <id>https://krissy.club/?date=1702771451</id>
+    <link href="https://krissy.club/?date=1702771451"/>
+    <summary>hello world</summary>
+    <title>1702771451</title>
+    <updated>2023-12-16T19:04:11-05:00</updated>
+    <dc:date>2023-12-16T19:04:11-05:00</dc:date>
+  </entry>
+  <dc:date>2023-12-27T19:44:35-05:00</dc:date>
+</feed>

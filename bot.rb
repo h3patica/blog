@@ -1,5 +1,6 @@
 require 'discordrb'
 require 'sqlite3'
+require_relative 'gen_rss'
 
 bot = Discordrb::Bot.new token: File.read('../token.txt').strip
 db = SQLite3::Database.open 'posts.db'
@@ -19,6 +20,7 @@ bot.message do |message|
     db.execute "DELETE FROM tbl1 WHERE date=?", date
     message.respond date
   end
+  GenRss.new
 end
 
 bot.run

@@ -6,16 +6,17 @@ html {
     background-position: center;
     font-family: monospace;
     color: #b3b8c3;
+    font-size: 1.75vw;
 }
 
 .term {
-    font-size: 14px;
     background-color: #0C090A;
     color: #b3b8c3;
     width: 75%;
     border: solid 2px #1e1e1e;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5px;
     padding: 3px;
 }
 
@@ -48,11 +49,8 @@ a {
 }
 
 #header {
-	text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
 }
 
-@media screen and (min-height:600px){
-    #header {
-	text-align: left;
-    }
-}
