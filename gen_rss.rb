@@ -5,7 +5,7 @@ require 'date'
 class GenRss
     def initialize
         db = SQLite3::Database.open 'posts.db'
-        posts = db.query "SELECT * FROM tbl1 WHERE tags LIKE '%blog%' ORDER BY date DESC"
+        posts = db.query "SELECT * FROM tbl1 WHERE tags NOT LIKE 'site' ORDER BY date DESC"
 
         rss = RSS::Maker.make("atom") do |maker|
             maker.channel.author = "hepatica"
